@@ -1,7 +1,7 @@
 # Simple Flutter Website
 
 <p>
-<img src="assets/Foto.png" width="480" alt="Image"/>
+<img src="assets/Foto.png" alt="Image"/>
 </p>
 
 ## Contributtors
